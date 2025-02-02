@@ -1,0 +1,9 @@
+﻿  Body.cpp
+  Car.cpp
+C:\Users\anastasia\Desktop\Coursework\Car.cpp(25,67): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  CheckInput.cpp
+  Moto.cpp
+C:\Users\anastasia\Desktop\Coursework\Moto.cpp(24,69): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Transmission.cpp
+  Создание кода...
+  Coursework.vcxproj -> C:\Users\anastasia\Desktop\Coursework\x64\Debug\Coursework.exe
